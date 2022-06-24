@@ -61,7 +61,6 @@ This entirely shows how are the files connected and how the entire process is ha
 ![main-1](https://user-images.githubusercontent.com/70379877/175650164-175c98f6-6137-452d-8877-2a68ea5d50d5.png)
 ![main-2](https://user-images.githubusercontent.com/70379877/175650175-e2ff0383-2c26-4485-a0ba-9ae548872681.png)
 ![main-3](https://user-images.githubusercontent.com/70379877/175650195-a02a0b92-b2d8-4989-b9a3-e11b31c1ea8d.png)
-![orders-4-placed](https://user-images.githubusercontent.com/70379877/175650361-6975f481-4feb-4c39-b0ff-d3cf5dd70e9c.png)
 
 <br>
 
@@ -69,9 +68,9 @@ This entirely shows how are the files connected and how the entire process is ha
 
 ![orders-1](https://user-images.githubusercontent.com/70379877/175650302-68a7ee67-f9b0-4a09-b191-ad3aa851d82c.png)
 ![orders-2](https://user-images.githubusercontent.com/70379877/175650323-ccd8c146-4f7f-418f-b0d2-003fc9ca5da1.png)
-![orders-3](https://user-images.githubusercontent.com/70379877/175650335-9ef8f99c-48e7-4143-9dd6-87b586c799c9.png)
 
 <br>
+
 ##### Admin Page Login with Report Generation : 
 
 ![admin-page](https://user-images.githubusercontent.com/70379877/175649871-1eecfe41-5284-43fb-80b4-476da2b88f19.jpg)
@@ -80,7 +79,29 @@ This entirely shows how are the files connected and how the entire process is ha
 ![report-3](https://user-images.githubusercontent.com/70379877/175650034-ea28c198-2d30-441b-a1e0-5f31e1c410ae.png)
 
 <br>
+
 ##### Feedback Page : 
 ![feed-1](https://user-images.githubusercontent.com/70379877/175651004-7a2e6d5b-9c6f-403f-8866-3f6ca4c88c3b.png)
-![feed-2](https://user-images.githubusercontent.com/70379877/175651049-463f289d-335b-49e9-aca2-97784b2eaa4b.png)
 
+<br><br>
+
+#### Roles in this project:
+![image](https://user-images.githubusercontent.com/70379877/175653018-7745e96a-848a-4718-9a98-920ada80e6a1.png)
+
+<br><br>
+### Live Database (in phpmyadmin):
+ - User Table
+![user-tab](https://user-images.githubusercontent.com/70379877/175654317-daf1e42b-5056-4209-91fb-35a78bacfb6e.jpg)
+<br>
+
+ - Food Table
+![food-tab](https://user-images.githubusercontent.com/70379877/175654599-12a16a1e-4a46-4523-bec3-858795d79e24.jpg)
+<br>
+
+ - Orders Table
+![orders-tab](https://user-images.githubusercontent.com/70379877/175654650-de8db077-41dc-4d14-96a9-1db3de39485f.jpg)
+<br>
+
+ - Feedback Table
+![feedbk-tab](https://user-images.githubusercontent.com/70379877/175654708-dd600c77-3f71-458a-adad-2c2da98bb712.jpg)
+<br>
