@@ -107,4 +107,4 @@ This entirely shows how are the files connected and how the entire process is ha
 <br>
 
 <br><br>
-> To know more about the project - Contact me via ![Linkedin](https://www.linkedin.com/in/balakrishnan-r-906404184/) or mail me: devbala2022@gmail.com
+> To know more about the project - Contact me via [Linkedin](https://www.linkedin.com/in/balakrishnan-r-906404184/) or mail me: devbala2022@gmail.com
