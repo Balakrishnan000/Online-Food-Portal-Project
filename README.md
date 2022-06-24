@@ -5,7 +5,7 @@ It is an Online Food Ordering System Website, it was created majorly focusing th
   - This is a Web Application for Food Ordering Management purpose. It primarily has 2 kind of users – 1. Admin, 2. Clients/Customers.  
   - It primarily helps to keep track of food orders and accounts management. 
   - Admin can add / remove food items data, determine quantity, analyze transactions, Report generation for a period of time, etc. 
-  - Customers can place food orders, view price, provide feedback, login.
+  - Customers can place food orders, view price, provide feedback, login, cancel orders.
   - This platform is made basically for *bulk orders of a single item* during some ceremony or party celebrations at homes and offices.
 
 ### Tech Stack Used:
