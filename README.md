@@ -105,3 +105,6 @@ This entirely shows how are the files connected and how the entire process is ha
  - Feedback Table
 ![feedbk-tab](https://user-images.githubusercontent.com/70379877/175654708-dd600c77-3f71-458a-adad-2c2da98bb712.jpg)
 <br>
+
+<br><br>
+> To know more about the project - Contact me via ![Linkedin](https://www.linkedin.com/in/balakrishnan-r-906404184/) or mail me: devbala2022@gmail.com
